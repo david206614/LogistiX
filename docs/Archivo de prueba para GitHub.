@@ -1,0 +1,5 @@
+cat > prueba.txt << EOF
+Archivo de prueba para GitHub.
+
+Creado el 28 de octubre de 2026 para realizar un commit de ejemplo.
+EOF
